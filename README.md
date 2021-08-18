@@ -18,7 +18,6 @@ A new Flutter application.
 4. edit file LaunchScreen.storyboard.
 
 ### Image for screen
-![splash_bg](https://user-images.githubusercontent.com/66642836/129480076-dc52121f-3499-42e6-94b9-93dd7d363f8a.png)
 
 ## Bottom Navigation Bar
 
